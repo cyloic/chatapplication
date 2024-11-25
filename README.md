@@ -16,8 +16,6 @@ Select a contact to start a conversation.
 Type your message in the text box and press Send.
 Use features like attachments, emojis, or group chats for better communication.
 Support
-For help, contact us:
-Email: support@alu-connect.com
-Phone: +1-800-ALU-CONNECT
+
 
 Thank you for using Alu-Connect!
